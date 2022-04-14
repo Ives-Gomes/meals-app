@@ -16,6 +16,6 @@ export default IconButton;
 
 const styles = StyleSheet.create({
   pressed: {
-    opacit: 0.7,
+    opacity: 0.7,
   }
 });

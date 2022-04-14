@@ -1,4 +1,4 @@
-import { Text } from 'react-navigate';
+import { Text } from 'react-native';
 
 const FavoriteScreen = () => {
   return (
